@@ -1,0 +1,2 @@
+#!/bin/bash
+./srcds_run -console -game garrysmod -usercon -authkey 3563176DFFDD2045118DAFC139308CD1 +ip 85.214.200.95 +maxplayers 16 +gamemode terrortown +map ttt_waterworld +host_workshop_collection 1368833987
